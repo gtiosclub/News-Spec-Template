@@ -20,4 +20,4 @@ A typical final product using this template would include two screens. The first
 
 #### Code
 
-If you're stumped, you can take a look at a [fully completed version](https://github.com/iosgatech/News-App-Fall17) of the app.
+If you're stumped, you can take a look at a [fully completed version](https://github.com/iosgatech/News-App-Completed) of the app.
